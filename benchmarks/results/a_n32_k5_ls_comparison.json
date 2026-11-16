@@ -1,0 +1,19 @@
+{
+  "instance": "A-n32-k5",
+  "seed": 42,
+  "particles": 30,
+  "iterations": 100,
+  "pure_qpso": {
+    "cost": 1351.5988,
+    "feasible": true,
+    "routes": 5,
+    "time_sec": 0.16511030006222427
+  },
+  "memetic_qpso_ls": {
+    "cost": 872.4325,
+    "feasible": true,
+    "routes": 5,
+    "time_sec": 0.1510250000283122
+  },
+  "improvement_pct": 35.45181454733461
+}
